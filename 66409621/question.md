@@ -1,3 +1,7 @@
+# The link of this question
+[Loop an array of objects and get a new object based on comparing objects values](https://stackoverflow.com/questions/66409621/loop-an-array-of-objects-and-get-a-new-object-based-on-comparing-objects-values/66410417#66410417)
+---
+
 I have this array:
 
 ```jsx
